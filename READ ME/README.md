@@ -1,1 +1,2 @@
 # Diabetes-Onset-Detection
+AUTHOR NAME: KAMINI RAVICHANDRAN
